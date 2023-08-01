@@ -1,7 +1,8 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=MinSeoNam&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70">
-
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:eeafaf,100:afc4e7&text=welcome&fontColor=ffffff&fontAlignY=40&fontSize=60&height=150&desc=NamMinSeo%20Github&descAlignY=70">
 </div>
+<br>
+<br>
 <div align=center>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
@@ -20,6 +21,7 @@
        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 </div>
 <br>
+<br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
 </div>
@@ -29,3 +31,4 @@
 	<img src="https://img.shields.io/badge/Tomcat-F8DC75?style=flat&logo=ApacheTomcat&logoColor=white" />
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
 </div>
+<br><br><br>
