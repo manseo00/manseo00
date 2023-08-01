@@ -1,5 +1,5 @@
 <div align=center>
-	![MinSeoNam](https://capsule-render.vercel.app/api?type=MinSeoNam&color=auto&text=MinSeoNam&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70)
+	https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=MinSeoNam&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=desc%20is%20also%20animated&descAlignY=70
 
 </div>
 <div align=center>
