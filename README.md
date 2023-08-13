@@ -1,7 +1,7 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:eeafaf,100:afc4e7&text=welcome&fontColor=ffffff&fontAlignY=40&fontSize=60&height=150&desc=NamMinSeo%20Github&descAlignY=70">
 </div>
-<br> 
+<br>  
 <br>
 <div align=center>
 	<p>✨ Platforms & Languages ✨</p>
